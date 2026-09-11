@@ -1,6 +1,5 @@
 <#
-Generates icon.ico (the AD Password Changer padlock from clidsys.com/tools.html,
-source SVG kept alongside as source-icon.svg) used by build.ps1 for the compiled exe.
+Generates icon.ico used by build.ps1 for the compiled exe.
 Rerun this script and commit icon.ico if you want to change the icon.
 #>
 
